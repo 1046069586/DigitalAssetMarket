@@ -1,0 +1,17 @@
+.avatar{
+    text-align: left ;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+.username{
+    text-align: left;
+    padding-left: 50px;
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.cards{
+    padding: 30px;
+}

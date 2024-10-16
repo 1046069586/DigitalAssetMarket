@@ -1,0 +1,14 @@
+server:
+  port: 9090
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    name: defaultDataSource
+    url: jdbc:mysql://192.168.232.1:3306/nfts_market?serverTimezone=GMT%2b8
+    username: zyx
+    password: 123456
+
+files:
+  upload:
+    path: /home/zyx/Desktop/NFRsMarket/files/
